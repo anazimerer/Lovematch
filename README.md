@@ -1,7 +1,7 @@
 <h1 align="center"> Lovematch </h1>
 <p><b>Status: </b>concluído </p>
 
-<a href="http://jumbled-afterthought.surge.sh/"> Deploy </a> :gift_heart:
+<a href="http://boring-scarf.surge.sh/"> Deploy </a> :gift_heart:
 <p align="justify"> O Lovematch é um aplicativo de relacionamentos que mostra perfis com nome, idade e descrição para que sejam avaliados pelo usuário e que recebam um voto positivo ou negativo. Os perfis com votos positivos, tem suas compatibilidades verificadas com o perfil do usuário. Dessa forma, os perfis compativeis correspondem aos matches e são listados para que o usuário possa visualizar.</p>
 
 <h3>Funcionalidades</h3>
